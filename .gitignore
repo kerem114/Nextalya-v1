@@ -1,0 +1,17 @@
+﻿/vendor/
+/node_modules/
+/.env
+/.env.*
+/.env.local
+/.idea/
+/.vscode/
+/public/storage
+/storage/*.key
+/storage/app/public
+/storage/logs/
+/storage/framework/
+.DS_Store
+Thumbs.db
+/npm-debug.log*
+/yarn-error.log*
+
